@@ -3,4 +3,6 @@
 
 ### Java后端优秀学习网址
 
-https://www.w3cschool.cn/java/java-intro.html
+https://www.w3cschool.cn/java/java-tutorial.html
+
+https://www.liaoxuefeng.com/wiki/1252599548343744
